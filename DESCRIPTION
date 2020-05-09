@@ -1,11 +1,13 @@
 Package: pdfparser
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Tools for advanced PDF text extraction.
 Version: 0.1.0
 Author: Balthasar Sager
 Maintainer: The package maintainer <balthasar@balthasar.help>
 Description: Functions for advanced PDF parsing.
     This package aims to facilitate content-extraction from PDFs.
+    It may be useful to you if you work with layout elements;
+    i.a. when you need to integrate word, line or block coordinates).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
